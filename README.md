@@ -1,9 +1,9 @@
 # Minimum Working Examples - GNU Make
 
 GNU Make is a popular build tool for software development. I have used
-it for decades to build C and C++ programs on Linux. I use it for both
-native and cross-compile builds, since most of the software I write
-professionally is for embedded, bare-metal systems.
+it for decades to build C and C++ programs, mostly on Linux. I use it
+for both native and cross-compile builds, since most of the software I
+write professionally is for embedded, bare-metal systems.
 
 The GNU Make
 [manual](https://www.gnu.org/software/make/manual/html_node/index.html)

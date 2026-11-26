@@ -36,12 +36,18 @@ gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 
 * [Accumulating prerequisites](accumulatingPrerequisites)
 
-* (VPATH vs vpath)[vpath]
+* [Preprocessed files](preprocessedFiles)
 
-* Automatic variables[automaticVariables]
+* [Source files rule](sourceFilesRule)
 
-* Target and pattern specific variable values[variableValues]
+* [VPATH vs vpath](vpath)
 
-* Controlling recipe echo[recipeEcho]
+* [Automatic variables](automaticVariables)
 
-* Link-time wrapping[linkTimeWrap]
+* [Target and pattern specific variable values](variableValues)
+
+* [Recipe echo](recipeEcho)
+
+* [Link-time wrapping](linkTimeWrap)
+
+* [A bit of everything](everything)

@@ -34,7 +34,7 @@ gcc (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
 
 # The Examples
 
-* (Accumulating prerequisites)[accumulatingPrerequisites]
+* [Accumulating prerequisites](accumulatingPrerequisites)
 
 * (VPATH vs vpath)[vpath]
 
